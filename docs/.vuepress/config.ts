@@ -29,7 +29,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       description: 'web前端技术博客,专注web前端学习与总结。JavaScript,js,ES6,TypeScript,vue,React,python,css3,html5,Node,git,github等技术文章。',
     }
   },
-  // base: '/',
+  base: `/${'test-io'}/`,
 
   /* ---------- 主题配置 ---------- */
   themeConfig: {
